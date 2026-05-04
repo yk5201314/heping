@@ -1,0 +1,11 @@
+{
+  "background_color": "#cc0000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "和平精英直装",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "和平精英",
+  "start_url": "//heping/",
+  "theme_color": "#cc0000"
+}
